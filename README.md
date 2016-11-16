@@ -1,4 +1,4 @@
-This was one of the first applications I made when I got my first office.
+This was one of the first applications I made when I got my first office job.
 
 It allows you to change the text displayed on an HP printer, all you need is the IP.
 
